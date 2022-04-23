@@ -52,3 +52,16 @@
     font-size: 15px;
     font-weight: 400;
 }
+
+.google-login {
+    background-color: #95A0A7;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    width: 415px;
+    height: 55px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
